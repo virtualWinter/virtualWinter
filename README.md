@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **something**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **java**
 
-- 💬 Ask me about **java, js, html, css**
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **me@winter-is-a-dev.ml**
 
