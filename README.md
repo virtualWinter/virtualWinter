@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **me@winter-is-a-dev.ml**
+- 📫 How to reach me: **you don't**
 
 
 <h3 align="left">Connect with me:</h3>
